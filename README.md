@@ -1,5 +1,7 @@
 # Animation Ass-10 CSS
 
+## Hosted Link
+You can view the project live at [View Live Project](https://saifulislam05.github.io/animation-css-10/)
 ## Project Description
 The "Animation Project" is a web page project that showcases animated images of different watches. The project features a responsive layout and CSS animations applied to the images.
 
