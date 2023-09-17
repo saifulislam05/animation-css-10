@@ -3,6 +3,10 @@
 ## Project Description
 The "Animation Project" is a web page project that showcases animated images of different watches. The project features a responsive layout and CSS animations applied to the images.
 
+## UI 
+![image](https://github.com/saifulislam05/animation-css-10/assets/73392705/e33dbed2-fd74-4f42-b0e6-69a40ba54d24)
+
+
 ## HTML Structure
 
 ### Wrapper (`div.wrapper`):
